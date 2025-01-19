@@ -239,7 +239,7 @@ async def none_stop(bot):
 
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
-TOKEN = '57495499381:AAEwqW5YY6kDuLZFTy3CJOnz0g3AQvkO2Coz'
+TOKEN = '7080374509:AAFuprJKuNgPnTOTqWpwtOehp73Gnu_EIUA'
 
 bot = TeleBot(TOKEN)
 user_attacks = {}
